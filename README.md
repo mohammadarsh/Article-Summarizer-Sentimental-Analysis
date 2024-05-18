@@ -47,5 +47,3 @@ This application allows you to summarize news articles by providing a URL. It ex
 - [TextBlob](https://textblob.readthedocs.io/en/dev/)
 - [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
-
-```
