@@ -1,4 +1,4 @@
-# from nntplib import n_articleInfo
+from nntplib import n_articleInfo
 import tkinter as tk
 import nltk
 from textblob import TextBlob
